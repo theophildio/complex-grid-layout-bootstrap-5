@@ -4,3 +4,22 @@
   box-sizing: border-box;
 }
 
+.img-card .big-img img {
+  width: 100%;
+  height: 450px;
+}
+
+.img-card .bottom-img img {
+  width: 100%;
+  height: 228px;
+  padding-left: 25px;
+}
+
+.card-img .card {
+  height: 450px;
+}
+
+.card-img .single-img img {
+  width: 100%;
+  height: 228px;
+}
